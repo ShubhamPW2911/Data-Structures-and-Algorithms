@@ -1,5 +1,5 @@
 package com.bst;
-import java.util.Scanner;
+import java.util.Scanner
 
 public class BST {
 
