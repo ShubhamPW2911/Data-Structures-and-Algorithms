@@ -1,4 +1,4 @@
-package com.bst;
+package com.bst
 import java.util.Scanner;
 
 public class BST {
