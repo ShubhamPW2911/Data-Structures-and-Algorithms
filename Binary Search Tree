@@ -1,4 +1,4 @@
-package c
+package 
 import java.util.Scanner;
 
 public class BST {
