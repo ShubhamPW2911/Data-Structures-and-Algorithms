@@ -1,4 +1,4 @@
-pac
+pa
 import java.util.Scanner;
 
 public class BST {
