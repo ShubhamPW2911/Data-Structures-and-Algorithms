@@ -1,5 +1,5 @@
 
-import java.util.Scann
+import java.util.Scan
 
 public class BST {
 
